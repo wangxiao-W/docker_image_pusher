@@ -10,4 +10,9 @@ docker.io/calico/cni:v3.25.0
 docker.io/calico/node:v3.25.0
 docker.io/calico/node:v3.25.0
 docker.io/calico/kube-controllers:v3.25.0
+mysql:8.0.32
+zabbix/zabbix-server-mysql:centos-6.4.0
+zabbix/zabbix-web-nginx-mysql:centos-6.4.0
+zabbix/zabbix-java-gateway:centos-6.4.0
+zabbix/zabbix-agent:centos-6.4.0
 
