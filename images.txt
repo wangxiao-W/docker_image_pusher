@@ -1,18 +1,20 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-hello-world
-docker.io/calico/cni:v3.25.0
-docker.io/calico/cni:v3.25.0
-docker.io/calico/node:v3.25.0
-docker.io/calico/node:v3.25.0
-docker.io/calico/kube-controllers:v3.25.0
-mysql:8.0.32
-zabbix/zabbix-server-mysql:centos-6.4.0
-zabbix/zabbix-web-nginx-mysql:centos-6.4.0
-zabbix/zabbix-java-gateway:centos-6.4.0
-zabbix/zabbix-agent:centos-6.4.0
+#hello-world
+#docker.io/calico/cni:v3.25.0
+#docker.io/calico/cni:v3.25.0
+#docker.io/calico/node:v3.25.0
+#docker.io/calico/node:v3.25.0
+#docker.io/calico/kube-controllers:v3.25.0
+#mysql:8.0.32
+#zabbix/zabbix-server-mysql:centos-6.4.0
+#zabbix/zabbix-web-nginx-mysql:centos-6.4.0
+#zabbix/zabbix-java-gateway:centos-6.4.0
+#zabbix/zabbix-agent:centos-6.4.0
+agilestacks/fluentd-elasticsearch:v1.3.0
+
 
