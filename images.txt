@@ -15,6 +15,7 @@
 #zabbix/zabbix-web-nginx-mysql:centos-6.4.0
 #zabbix/zabbix-java-gateway:centos-6.4.0
 #zabbix/zabbix-agent:centos-6.4.0
-agilestacks/fluentd-elasticsearch:v1.3.0
+#agilestacks/fluentd-elasticsearch:v1.3.0
+harbor: 2.5.0
 
 
