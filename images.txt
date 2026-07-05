@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#hello-world
+hello-world
 #docker.io/calico/cni:v3.25.0
 #docker.io/calico/cni:v3.25.0
 #docker.io/calico/node:v3.25.0
@@ -16,6 +16,6 @@
 #zabbix/zabbix-java-gateway:centos-6.4.0
 #zabbix/zabbix-agent:centos-6.4.0
 #agilestacks/fluentd-elasticsearch:v1.3.0
-harbor
+#harbor
 
 
