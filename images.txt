@@ -18,5 +18,6 @@ goharbor/prepare:v2.5.0
 #zabbix/zabbix-agent:centos-6.4.0
 #agilestacks/fluentd-elasticsearch:v1.3.0
 #harbor
+registry.k8s.io/ingress-nginx/controller:v1.5.1
 
 
