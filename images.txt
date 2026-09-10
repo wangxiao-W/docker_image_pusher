@@ -31,7 +31,16 @@ goharbor/prepare:v2.5.0
 #docker.io/kubesphere/wiz-telemetry-console:v2.0.0
 #docker.io/kubesphere/wiz-telemetry-console:v2.0.0
 
-docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
+#docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
+quay.io/prometheus/prometheus:v3.3.1
+quay.io/prometheus-operator/prometheus-operator:v0.81.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.1
+quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+quay.io/brancz/kube-rbac-proxy:v0.19.0
+quay.io/prometheus/node-exporter:v1.9.1
+quay.io/brancz/kube-rbac-proxy:v0.19.0
+docker.io/kubesphere/dcgm-exporter:3.3.5-3.4.0-ubuntu22.04
 
 
 
