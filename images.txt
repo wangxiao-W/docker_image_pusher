@@ -28,10 +28,10 @@ goharbor/prepare:v2.5.0
 
 #docker.io/kubeimages/logstash:7.9.3
 
-docker.io/kubesphere/wiz-telemetry-console:v2.0.0
+#docker.io/kubesphere/wiz-telemetry-console:v2.0.0
 #docker.io/kubesphere/wiz-telemetry-console:v2.0.0
 
-
+docker.io/kubesphere/whizard-telemetry-apiserver:v1.5.0
 
 
 
